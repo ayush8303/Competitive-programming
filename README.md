@@ -7,12 +7,12 @@
 
 ## Lazy Propagation
 
-Check out the following problem on LeetCode:
+Check out the following problems :
 
 1. [Handling Sum Queries After Update - leetcode](https://leetcode.com/problems/handling-sum-queries-after-update/)
 
 ## Dp + bitmasking
 
-Check out the following problem on LeetCode :
+Check out the following problems :
 
 1. [Shortest Common string - gfg](https://practice.geeksforgeeks.org/batch/test-series-bundle/track/gts-bit-manipulation/problem/shortest-common-string)
