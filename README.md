@@ -13,6 +13,6 @@ Check out the following problem on LeetCode:
 
 ## Dp + bitmasking
 
-Check out the following problem on LeetCode:
+Check out the following problem on LeetCode :
 
 1. [Shortest Common string - gfg](https://practice.geeksforgeeks.org/batch/test-series-bundle/track/gts-bit-manipulation/problem/shortest-common-string)
