@@ -8,6 +8,7 @@
 6. [The number of prime numbers less than n are of the order of n/log(n)](https://en.wikipedia.org/wiki/Prime-counting_function)
 7. [Properties of GCD and LCM](https://www.cut-the-knot.org/arithmetic/GcdLcmProperties.shtml)
 8. [How to read problem statement](https://codeforces.com/blog/entry/62730)
+9. [Upper bound for number of divisors](https://codeforces.com/blog/entry/14463)
 
 ## Lazy Propagation
 
@@ -26,6 +27,7 @@ Check out the following problems :
 Check out the following problems :
 
 1. [ codeforces-Div2C](https://codeforces.com/contest/1771/problem/C)
+1. [ Gcd-queries ](https://www.codechef.com/problems/GCD_QUERIES)
 
 ## Dp + bitmasking
 
