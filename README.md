@@ -52,6 +52,7 @@ Check out the following problems :
 Check out the following problems :
 
 1. [find permutation - atcoder](https://atcoder.jp/contests/abc291/tasks/abc291_e)
+2. [Count Visited Nodes in a Directed Graph - leetcode](https://leetcode.com/contest/weekly-contest-365/problems/count-visited-nodes-in-a-directed-graph/)
 
 ## Matrix Exponentiation
 
@@ -64,3 +65,11 @@ Check out the following problems :
 Check out the following problems :
 
 1. [Count Number of Possible Root Nodes - leetcode](<https://leetcode.com/problems/count-number-of-possible-root-nodes/discuss/3256065/Re-rooting-or-O(N)-or-Explained>)
+2. [Tree XOR - codeforces](https://codeforces.com/contest/1882/problem/D)
+
+## Square - free numbers
+
+Check out the following problems :
+
+1. [Squarified - codechef](https://www.codechef.com/problems/SQUAR)
+2. [Tree XOR - codeforces](https://codeforces.com/contest/1882/problem/D)
